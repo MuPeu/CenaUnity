@@ -14,5 +14,5 @@
 </div>
 <h5>Skulls In Sombreros 2 - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/skulls-in-sombreros-2-189999</h5>
 <br>
-<h4>Utilizamos materiais para fazer a pista da corrida, ultizando uma textura de asfalto, e no palco, de onde os esqueletos estão assistindo, ultizando uma textura de madeira. Também criamos materiais para incerrir nos personagem (carros e esqueletos), ultilizando as texturas que vieram nos pacotes da AssetStore, alterandos pequenos pontos, como cor e brilho.</h4>
+<h4>Utilizamos materiais para fazer a pista da corrida, ultizando uma textura de asfalto, e no palco, de onde os esqueletos estão assistindo, ultizando uma textura de madeira. Também criamos materiais para incerir nos personagem (carros e esqueletos), ultilizando as texturas que vieram nos pacotes da AssetStore, alterandos pequenos pontos, como cor e brilho.</h4>
 <h4>Para fazer os carros se movimentarem, inclinamos todos os elentos da cena e a camera, para dar a empreção de que os carros estão se movimentando na horizontal, mas na verdade eles só estão deslizando na diagonal. Para dar essa empreção, colocamos rigidbody no carros e na pista, e, somente nos carros, colocamos box collider.</h4>
